@@ -1,4 +1,5 @@
 import HelloForm from "./assets/component/HelloForm"
+import "./styles.css"
 
 function App() {
   return (

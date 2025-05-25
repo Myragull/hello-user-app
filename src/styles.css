@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  padding: 40px;
+  background-color: #000; /* Black background */
+  color: white; /* White text */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Card wrapper */
+.form-container {
+  background-color: #000; /* Black form background */
+  color: #fff; /* White text inside form */
+  padding: 30px;
+  border-radius: 12px;
+  border: 2px solid #fff; /* White border around card */
+  max-width: 400px;
+  width: 100%;
+}
+
+/* Form layout */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Input field styling */
+input {
+  margin-top: 8px;
+  padding: 10px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  border: 2px solid white;
+  border-radius: 6px;
+  background-color: #111; /* Dark input field */
+  color: white;
+}
+
+/* Submit button */
+button {
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border: none;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Heading (Hello message) */
+h2 {
+  margin-top: 20px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+}
