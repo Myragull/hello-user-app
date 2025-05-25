@@ -38,5 +38,4 @@ See a greeting message that says:
 
 ## Live Demo
 
-Add your Vercel deployment link here, e.g.:
-https://hello-app-yourname.vercel.app
+https://hello-user-app.vercel.app/
