@@ -1,12 +1,42 @@
-# React + Vite
+# Hello App
+A simple React form app that takes user input and displays a personalized greeting dynamically using state management and form handling.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project allows users to:
 
-Currently, two official plugins are available:
+Enter their name into an input field
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Submit the form to display a greeting using their name
 
-## Expanding the ESLint configuration
+Experience real-time two-way binding as the input updates the state and reflects back in the UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+Form handling with onSubmit
+
+Real-time two-way data binding using useState
+
+Conditional rendering of greeting after submission
+
+Clean and interactive user interface
+
+## Usage
+Type your name into the input field.
+
+Click the Submit button.
+
+See a greeting message that says:
+"Hello, [Your Name]!"
+
+## Technologies Used
+React.js
+
+HTML
+
+CSS
+
+JavaScript
+
+## Live Demo
+
+Add your Vercel deployment link here, e.g.:
+https://hello-app-yourname.vercel.app
