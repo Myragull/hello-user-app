@@ -4,20 +4,20 @@ A simple React form app that takes user input and displays a personalized greeti
 ## Description
 This project allows users to:
 
-Enter their name into an input field
+- Enter their name into an input field
 
-Submit the form to display a greeting using their name
+- Submit the form to display a greeting using their name
 
-Experience real-time two-way binding as the input updates the state and reflects back in the UI
+- Experience real-time two-way binding as the input updates the state and reflects back in the UI
 
 ## Features
-Form handling with onSubmit
+- Form handling with onSubmit
 
-Real-time two-way data binding using useState
+- Real-time two-way data binding using useState
 
-Conditional rendering of greeting after submission
+- Conditional rendering of greeting after submission
 
-Clean and interactive user interface
+- Clean and interactive user interface
 
 ## Usage
 Type your name into the input field.
@@ -28,13 +28,13 @@ See a greeting message that says:
 "Hello, [Your Name]!"
 
 ## Technologies Used
-React.js
+- React.js
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 ## Live Demo
 
